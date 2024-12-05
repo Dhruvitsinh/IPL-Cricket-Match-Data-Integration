@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-E3E49MK_DHRUVITSINH.ipldata_etl"
+  DTS:DTSID="{E98618A2-C752-4C1D-AB7F-DA93870CDD12}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-E3E49MK\DHRUVITSINH;Initial Catalog=ipldata_etl;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-IPL_DATA-{E98618A2-C752-4C1D-AB7F-DA93870CDD12}DESKTOP-E3E49MK\DHRUVITSINH.ipldata_etl;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
