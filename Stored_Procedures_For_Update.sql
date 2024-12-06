@@ -1,7 +1,7 @@
 --------stored procedure
 
 
--------1) [ipl].[dim_Country]
+-------1) [ipl].[dim_Country]---------------------------------
 
 CREATE PROCEDURE spUpdateiplCountryById
 @country_id INT,                -- Primary key or unique identifier
